@@ -6,6 +6,7 @@
 - Webブラウザーで「シークレット ウィンドウ」（InPrivate ウィンドウ）を開く
 - https://www.office.com/ にアクセス
 - ラボの「リソース」に表示されたユーザーでサインイン
+- 「Copilot はこのリージョンでは現在サポートされていません」が表示された場合はページをリロード(F5 / Ctrl + R)
 
 ## Chat （Microsoft 365 Copilot Chat）
 
