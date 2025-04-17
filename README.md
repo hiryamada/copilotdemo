@@ -3,16 +3,17 @@
 ## 準備
 
 - ラボを起動
-- Webブラウザーで「シークレット ウィンドウ」（InPrivate ウィンドウ）を開く
-- https://www.office.com/ にアクセス
-- ラボの「リソース」に表示されたユーザーでサインイン
+  - 以降、起動によって表示されるポップアップウィンドウは閉じずにそのままにしておく
+- ラボが起動したら `Ctrl + Shift + N` を押して「シークレット ウィンドウ」（InPrivate ウィンドウ）を開く
+- 「シークレット ウィンドウ」（InPrivate ウィンドウ）https://www.office.com/ にアクセス
+- ラボのポップアップウィンドウ内の「リソース」タブに表示されているユーザー（User1-NNNNNN@LODS...onmicrosoft.com）でサインイン
 - 「Copilot はこのリージョンでは現在サポートされていません」が表示された場合はページをリロード(F5 / Ctrl + R)
+- Copilot （Microsoft 365 Copilot Chat）が表示される
 
 ## Chat （Microsoft 365 Copilot Chat）
 
 (1) 基本のプロンプト
 
-- Copilot （Microsoft 365 Copilot Chat）を開く
 - 画面上部の「職場・Web」を「Web」に切り替え
 - 以下のプロンプトをコピーして貼り付け
 
