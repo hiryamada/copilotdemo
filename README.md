@@ -3,7 +3,7 @@
 
 |アプリ|下書きの作成|要約|質問|
 |-|-|-|-|
-|Chat|-|-|-|
+|Chat|- [単純なプロンプト](chat/chat-basic-prompt.md)・[よいプロンプト](chat/chat-basic-prompt.md)|-|-|
 |Word|-|-|-|
 |Excel|-|-|-|
 |PowerPoint|-|-|-|
