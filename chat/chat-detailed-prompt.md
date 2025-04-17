@@ -1,6 +1,6 @@
-## Chat （Microsoft 365 Copilot Chat）「目標・コンテキスト・期待値・ソース」を含めたプロンプト
+## Microsoft 365 Copilot Chat: 「目標・コンテキスト・期待値・ソース」を含めたプロンプト
 
-- Copilot （Microsoft 365 Copilot Chat）を開く
+- Microsoft 365 Copilot Chat に移動
 - 画面上部の「職場・Web」を「Web」に切り替え
   - ※「職場」の場合は、この組織の中で共有されている情報も使用する
 - 以下のプロンプトをコピーして貼り付け

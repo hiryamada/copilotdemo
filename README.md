@@ -4,7 +4,7 @@
 
 |アプリ|下書きの作成|要約|質問|
 |-|-|-|-|
-|Chat|[単純なプロンプト](chat/chat-basic-prompt.md)・[よいプロンプト](chat/chat-detailed-prompt.md)|-|-|
+|Microsoft 365 Copilot Chat|[単純なプロンプト](chat/chat-basic-prompt.md)・[よいプロンプト](chat/chat-detailed-prompt.md)|-|-|
 |Word|[下書き](word/word-draft.md)|-|-|
 |Excel|-|[グラフの作成](excel/excel-graph.md)|-|
 |PowerPoint|[プロンプトから](powerpoint/powerpoint-draft-from-prompt.md)・[Wordから](powerpoint/powerpoint-draft-from-word.md)|-|-|
