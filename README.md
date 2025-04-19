@@ -60,4 +60,3 @@
 ## 全般
 
 - [「Copilot プロンプトギャラリー」の利用](common/prompt-gallery.md)
-
