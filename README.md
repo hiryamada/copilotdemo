@@ -1,5 +1,8 @@
-# Microsoft 365 Copilot Demo
-![alt text](image.png)
+# Microsoft 365 Copilot デモ
+
+![alt text](ninjasushi.jpg)
+
+あなたはレストランのオーナーで、忍者と寿司をテーマとした斬新なレストランの開店計画を立てています。Microsoft 365 Copilot がどのように役立つかを確認しましょう。
 
 ## 準備
 
@@ -13,12 +16,12 @@
 ## Word
 
 - [下書き](word/word-draft.md)
+- [画像の追加](word/word-insert-image.md)
 
 ## Excel
 
 - [グラフの作成](excel/excel-graph.md)
 - データの分析
-
 
 ## PowerPoint
 
@@ -27,7 +30,7 @@
 - [スライドの追加](powerpoint/powerpoint-add-a-slide.md)
 - [スライドへの画像の追加](powerpoint/powerpoint-add-a-image.md)
 - [スライド内の文章の書き換え](powerpoint/powerpoint-edit-text.md)
-- [プレゼンテーションの構造の検討](powerpoint/powerpoint-organize.md)
+- [プレゼンテーションの翻訳](powerpoint/powerpoint-translate.md)
 - [プレゼンテーションの内容について質問する](powerpoint/powerpoint-question.md)
 
 ## Outlook メール
