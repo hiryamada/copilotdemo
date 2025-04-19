@@ -15,12 +15,16 @@
 
 ## Word
 
-- [下書き](word/word-draft.md)
+- [下書き（簡単なプロンプト）](word/word-draft-basic-prompt.md)
+- [下書き（詳細なプロンプト）](word/word-draft-detailed-prompt.md)
 - [画像の追加](word/word-insert-image.md)
+- [表の作成](word/word-insert-table.md)
 
 ## Excel
 
 - [グラフの作成](excel/excel-graph.md)
+- [「条件付き書式」の設定](excel/excel-conditional-formatting.md)
+- [データの集計](excel/excel-pivot-table.md)
 - [Pythonを使用したデータの分析](excel/excel-python-analyze.md)
 
 ## PowerPoint
