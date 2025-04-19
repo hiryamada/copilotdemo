@@ -7,10 +7,12 @@
 - ラボが起動したら `Ctrl + Shift + N` （Mac: Command + Shift + N）を押して「シークレット ウィンドウ」（InPrivate ウィンドウ）を開く
 - 「シークレット ウィンドウ」（InPrivate ウィンドウ）で https://m365.cloud.microsoft/login または https://www.office.com/login にアクセス
 - ラボのポップアップウィンドウ内の「リソース」タブに表示されているユーザー（User1-NNNNNN@LODS...onmicrosoft.com）でサインイン
-- 「Copilot はこのリージョンでは現在サポートされていません」が表示された場合はページをリロード(F5 / Ctrl + R)
 - Microsoft 365のホーム画面が表示される
+- 画面左側のCopilotアイコンをクリック
+- 「Copilot はこのリージョンでは現在サポートされていません」が表示された場合はページをリロード(F5 / Ctrl + R)
+- 「m365.cloud.microsoft は次のことを求めています: 現在地情報の使用」が表示された場合は「許可」をクリック
 - 画面左上の「アプリ起動ツール」（9個のドットのアイコン）から、Word・Excel・PowerPointなどに移動できる。
-
+- ラボは起動から1時間程度利用できる。
 
 ## ラボの利用の終了
 

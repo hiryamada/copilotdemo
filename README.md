@@ -1,4 +1,4 @@
-# Microsoft 365 Copilot デモ
+# Microsoft 365 Copilot 演習
 
 ![alt text](ninjasushi.jpg)
 
@@ -21,7 +21,7 @@
 ## Excel
 
 - [グラフの作成](excel/excel-graph.md)
-- データの分析
+- [Pythonを使用したデータの分析](excel/excel-python-analyze.md)
 
 ## PowerPoint
 
@@ -40,13 +40,9 @@
 
 ## Outlook 予定表（カレンダー）
 
+- [チャットからの予定の作成](outlook/outlook-create-schedule-in-chat.md)
+- [予定の説明文の下書き](outlook/outlook-draft-description.md)
 - [予定について質問](outlook/outlook-calendar-question.md)
-- チャットからの予定の作成
-- 予定の説明文の下書き
-
-## Teams
-
-- 投稿の文章の書き換え
 
 ## OneDrive
 
@@ -54,6 +50,12 @@
 - 複数のファイルの要約
 - ファイルの内容の質問
 - 2つのファイルの比較
+
+## Teams
+
+※AI-3025コースのラボではTeamsは使用できません。
+
+- 投稿の文章の書き換え
 
 ## 全般
 

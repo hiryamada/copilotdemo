@@ -1,4 +1,4 @@
-## PowerPoint: スライドへの画像の追加
+# PowerPoint: スライドへの画像の追加
 
 - PowerPointに移動
 - 空のスライドを作成

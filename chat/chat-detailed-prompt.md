@@ -1,4 +1,4 @@
-## Microsoft 365 Copilot Chat: 文書作成（「目標・コンテキスト・期待値・ソース」を含めたプロンプト）
+# Microsoft 365 Copilot Chat: 文書作成（「目標・コンテキスト・期待値・ソース」を含めたプロンプト）
 
 - Microsoft 365 Copilot Chat に移動
 - 画面上部の「職場・Web」を「Web」に切り替え
