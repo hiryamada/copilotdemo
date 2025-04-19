@@ -1,4 +1,4 @@
-## Microsoft 365 Copilot Chat: 基本のプロンプト
+## Microsoft 365 Copilot Chat: 文書作成（簡単なプロンプト）
 
 - Microsoft 365 Copilot Chat に移動
 - 画面上部の「職場・Web」を「Web」に切り替え
