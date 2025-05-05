@@ -22,6 +22,7 @@
 
 ## Excel
 
+- [数式を設定した列の追加](excel/excel-add-column.md)
 - [グラフの作成](excel/excel-graph.md)
 - [「条件付き書式」の設定](excel/excel-conditional-formatting.md)
 - [データの集計](excel/excel-pivot-table.md)
@@ -55,11 +56,13 @@
 - ファイルの内容の質問
 - 2つのファイルの比較
 
+<!--
 ## Teams
 
 ※AI-3025コースのラボではTeamsは使用できません。
 
 - 投稿の文章の書き換え
+-->
 
 ## 全般
 
