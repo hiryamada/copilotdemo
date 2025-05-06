@@ -1,8 +1,14 @@
 # Microsoft 365 Copilot 演習
 
+<!--
 ![alt text](ninjasushi.jpg)
+-->
+![alt text](image-1.png)
+あなたはレストランのオーナーで、忍者と寿司をテーマとした斬新なレストランの開店計画を立てています。
 
-あなたはレストランのオーナーで、忍者と寿司をテーマとした斬新なレストランの開店計画を立てています。Microsoft 365 Copilot がどのように役立つかを確認しましょう。
+計画立案、パンフレットの作成、プレゼンの作成、売上予測など、さまざまな作業が必要です。
+
+Microsoft 365 Copilot がこれらの業務にどのように役立つかをこの演習で確認できます。
 
 ## 準備
 
@@ -49,12 +55,14 @@
 - [予定の説明文の下書き](outlook/outlook-draft-description.md)
 - [予定について質問](outlook/outlook-calendar-question.md)
 
+<!--
 ## OneDrive
 
 - ファイルの要約とFAQの作成
 - 複数のファイルの要約
 - ファイルの内容の質問
 - 2つのファイルの比較
+-->
 
 <!--
 ## Teams
