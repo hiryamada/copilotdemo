@@ -5,13 +5,14 @@
 -->
 
 <img src="image-1.png" height="130">
-<img src="ninjasushi.jpg" height="130">
 
 あなたはレストランのオーナーで、忍者と寿司をテーマとした斬新なレストランの開店計画を立てています。
 
 計画立案、パンフレットの作成、プレゼンの作成、売上予測など、さまざまな作業が必要です。
 
 Microsoft 365 Copilot がこれらの業務にどのように役立つかをこの演習で確認できます。
+
+---
 
 ## 準備
 
@@ -78,3 +79,8 @@ Microsoft 365 Copilot がこれらの業務にどのように役立つかをこ�
 ## 全般
 
 - [「Copilot プロンプトギャラリー」の利用](common/prompt-gallery.md)
+
+---
+
+<img src="ninjasushi.jpg" height="130">
+
