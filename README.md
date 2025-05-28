@@ -4,7 +4,8 @@
 ![alt text](ninjasushi.jpg)
 -->
 
-<img src="image-1.png" height="150">
+<img src="image-1.png" height="130">
+<img src="ninjasushi.jpg" height="130">
 
 あなたはレストランのオーナーで、忍者と寿司をテーマとした斬新なレストランの開店計画を立てています。
 
